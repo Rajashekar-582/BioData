@@ -1,5 +1,5 @@
 # BioData
-Contains basic python projects. Contribute to Rajashekar-582/Biodata development by creating an account on GitHub.
+Contains basic  projects. Contribute to Rajashekar-582/Biodata development by creating an account on GitHub.
 - 👋 Hi, I’m @Rajashekar-582
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
